@@ -441,23 +441,6 @@ margin-top: 15px;
 }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 /* main footer  */
 
 footer{
@@ -512,7 +495,6 @@ footer{
 
 /* scroll bar style  */
 
-/* For Chrome, Safari, and Edge */
 ::-webkit-scrollbar {
     width: 10px; /* Width of the scrollbar */
     background-color: #1f1f1f; /* Background color of the scrollbar */
@@ -529,9 +511,6 @@ footer{
     background-color: #555; /* Color when hovered */
 }
 
-
-
-
 .copy_right{
     margin-left:5rem;
     margin-top: 5rem;
@@ -544,7 +523,6 @@ footer{
     margin-left: 20rem;
     margin-bottom:2rem;
 }
-
 
 
 li:hover{
